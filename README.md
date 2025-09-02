@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>React + Firebase Firestore CRUD Template</title>
+
 </head>
 <body>
   <h1>React + Firebase Firestore CRUD Template</h1>
